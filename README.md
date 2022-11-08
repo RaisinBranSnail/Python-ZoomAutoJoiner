@@ -14,6 +14,6 @@ pip install regex
 pip install selenium
 ```
 ## Contact
-discord - kaizen#0174
+Discord - kaizen#0174
 
-email - Brandongrimaldo16@gmail.com
+Email - Brandongrimaldo16@gmail.com
