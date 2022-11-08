@@ -13,6 +13,10 @@ pip install regex
 ```
 pip install selenium
 ```
+### Youtube Video Tutorial
+TBA
+
+
 ## Contact
 Discord - kaizen#0174
 
