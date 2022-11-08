@@ -1,1 +1,2 @@
-# Python-ZoomAutoJoiner
+# Python Zoom Auto Joiner
+Prerequisites
